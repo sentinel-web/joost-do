@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+  font-family: "system-ui", monospace;
+}
+
+body {
+  margin: 0;
+}
